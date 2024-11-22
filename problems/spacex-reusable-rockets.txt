@@ -8,15 +8,15 @@
 - Physics
 
 ## Chronological Flow
-1. Initial Goal → Cheaper Space Travel
+Initial Goal → Cheaper Space Travel
      ↓
-2. First Problem → Why are rockets so expensive?
+First Problem → Why are rockets so expensive?
      ↓
-3. Analysis → Materials cost vs. price disparity (2% vs 100%)
+Analysis → Materials cost vs. price disparity (2% vs 100%)
      ↓
-4. Root Cause → Single-use nature + inefficient industry practices
+Root Cause → Single-use nature + inefficient industry practices
      ↓
-5. Solution → Reusability + vertical integration
+Solution → Reusability + vertical integration
 
 
 ## Context
