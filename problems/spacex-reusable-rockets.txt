@@ -78,7 +78,8 @@
 - New market opportunities enabled
 
 ## References
-- Wired interview with Elon Musk, 2012
+- [“Elon Musk’s Mission to Mars,” Chris Anderson (2012)] (https://www.wired.com/2012/10/ff-elon-musk-qa)
+- [“SpaceX and Daring to Think Big, Steve Jurvetson (2015)”](https://www.youtube.com/watch?v=3aXNWGwis4w)
 - SpaceX technical documentation
 - NASA contracts and reports
 - Industry analysis reports
