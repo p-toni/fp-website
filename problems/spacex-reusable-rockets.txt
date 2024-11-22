@@ -2,22 +2,23 @@
 
 > Challenging the assumption that rockets must be expendable by fundamentally rethinking space launch economics
 
+## Metadata
+- domain: aerospace
+- complexity: high
+- solving-approach: first-principles
+- year-solved: 2008
+
 ## Categories
 - Aerospace
 - Engineering
 - Physics
 
 ## Chronological Flow
-Initial Goal → Cheaper Space Travel
-     ↓
-First Problem → Why are rockets so expensive?
-     ↓
-Analysis → Materials cost vs. price disparity (2% vs 100%)
-     ↓
-Root Cause → Single-use nature + inefficient industry practices
-     ↓
-Solution → Reusability + vertical integration
-
+1. Initial Goal → Cheaper Space Travel
+2. First Problem → Why are rockets so expensive?
+3. Analysis → Materials cost vs. price disparity (2% vs 100%)
+4. Root Cause → Single-use nature + inefficient industry practices
+5. Solution → Reusability + vertical integration
 
 ## Context
 - Space industry dominated by government contractors
