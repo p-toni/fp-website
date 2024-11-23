@@ -11,7 +11,7 @@
 ## Categories
 - Aerospace
 - Engineering
-- Physics
+- Business
 
 ## Chronological Flow
 1. Initial Goal → Cheaper Space Travel
